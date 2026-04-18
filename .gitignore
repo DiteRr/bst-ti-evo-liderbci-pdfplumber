@@ -1,0 +1,35 @@
+# Environment files
+.env
+
+# Archives
+*.zip
+
+# Text files
+*.txt
+
+# JSON files
+*.json
+
+# Python virtual environment
+env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
